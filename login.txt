@@ -1,2 +1,2 @@
 console.log('something')
-conflict 2
+conflict resolved using rebase
